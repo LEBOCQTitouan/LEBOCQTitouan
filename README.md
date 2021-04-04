@@ -3,11 +3,14 @@
 * programming
 * climbing
 * drawing
-🌱 I’m currently learning ...
+
+🌱 I’m currently learning
 * Computer science at the IUT GON in France
+
 📫 How to reach me
 * lebocq.tit@gmail.com
-Go check out my non professionnal git account : leboc
+
+Go check out my non professionnal git account : 
 
 <!---
 LEBOCQTitouan/LEBOCQTitouan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
