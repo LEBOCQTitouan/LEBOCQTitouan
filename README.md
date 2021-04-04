@@ -10,7 +10,7 @@
 📫 How to reach me
 * lebocq.tit@gmail.com
 
-Go check out my non professionnal git account : 
+Go check out my non professionnal git account :  https://github.com/Wikgnis
 
 <!---
 LEBOCQTitouan/LEBOCQTitouan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
