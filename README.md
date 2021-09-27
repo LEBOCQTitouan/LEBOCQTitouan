@@ -4,11 +4,15 @@
 * climbing
 * drawing
 
+🏫 Education
+* Bac S (option SVT/EURO) (graduated with high honors)
+* DUT Informatique
+
 🌱 I’m currently learning
-* Computer science at the IUT GON in France
+* Computer science at the ENSICAEN (engineering school)
 
 📫 How to reach me
-* lebocq.tit@gmail.com
+* lebocq.titouan@gmail.com
 
 Go check out my non professionnal git account :  https://github.com/Wikgnis
 
