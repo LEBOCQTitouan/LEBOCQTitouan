@@ -4,6 +4,8 @@
 * climbing
 * drawing
 
+![LEBOCQTitouan GitHub stats](https://github-readme-stats.vercel.app/api?username=LEBOCQTitouan&show_icons=true&theme=transparent)
+
 🏫 Education
 * Bac S (option SVT/EURO) (graduated with high honors)
 * DUT Informatique
