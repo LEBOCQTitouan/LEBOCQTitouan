@@ -22,6 +22,14 @@ Engineer trained at **ENSICAEN** (Computer Science) with management studies at *
 
 ---
 
+### Experience
+
+**EDF — Farnum · Internal Developer Platform**
+Designing and building an internal developer platform that abstracts away the underlying Kubernetes so local teams can focus on building, not infrastructure. The platform handles the heavy lifting — fast and secure onboarding, automated vulnerability scanning, and policy-compliant-by-default workflows — all aligned with company security standards while staying cost-efficient.
+`Platform Engineering` · `Kubernetes` · `DevSecOps`
+
+---
+
 ### Core Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -44,6 +52,7 @@ Engineer trained at **ENSICAEN** (Computer Science) with management studies at *
 | --- | --- | --- |
 | [tau](https://github.com/LEBOCQTitouan/tau) | A minimal, terminal-native runtime for installing and running AI agents — skills, tools, MCP servers, LLM backends, and pipelines as installable packages, solo or orchestrated | `Rust` |
 | [tau-web-ui](https://github.com/LEBOCQTitouan/tau-web-ui) | Local dev & monitoring UI for tau: a Rust/axum gateway fronting `tau serve` with a React + React-Flow trace visualizer | `Rust` · `React` |
+| [Cairn](https://github.com/tau-rs/cairn) | An open-source, git-backed, Obsidian-class note-management engine, designed for first-class integration with tau | `Rust` |
 | [operating-system-IPC](https://github.com/LEBOCQTitouan/operating-system-IPC) | Inter-process communication built on OS-level primitives | `C` |
 | [dotfiles](https://github.com/LEBOCQTitouan/dotfiles) · [tmux-config](https://github.com/LEBOCQTitouan/tmux-config) | A finely-tuned, reproducible development environment | `Shell` |
 
