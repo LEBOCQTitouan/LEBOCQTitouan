@@ -27,6 +27,9 @@ Engineer trained at **ENSICAEN** (Computer Science) with management studies at *
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -39,10 +42,9 @@ Engineer trained at **ENSICAEN** (Computer Science) with management studies at *
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [tau](https://github.com/LEBOCQTitouan/tau) | A minimal, terminal-native runtime for installing and running AI agents — skills, tools, MCP servers, LLM backends, and pipelines as installable packages, solo or orchestrated | `Rust` |
+| [tau-web-ui](https://github.com/LEBOCQTitouan/tau-web-ui) | Local dev & monitoring UI for tau: a Rust/axum gateway fronting `tau serve` with a React + React-Flow trace visualizer | `Rust` · `React` |
 | [operating-system-IPC](https://github.com/LEBOCQTitouan/operating-system-IPC) | Inter-process communication built on OS-level primitives | `C` |
-| [rawTerminal](https://github.com/LEBOCQTitouan/rawTerminal) | Library to drive the terminal in raw mode | `C` |
-| [scala-graph](https://github.com/LEBOCQTitouan/scala-graph) · [scala-conway](https://github.com/LEBOCQTitouan/scala-conway) | Functional programming and algorithmic experiments | `Scala` |
-| [iti-ensicaen-pwa](https://github.com/LEBOCQTitouan/iti-ensicaen-pwa) | Progressive Web Application | `JavaScript` |
 | [dotfiles](https://github.com/LEBOCQTitouan/dotfiles) · [tmux-config](https://github.com/LEBOCQTitouan/tmux-config) | A finely-tuned, reproducible development environment | `Shell` |
 
 ---
