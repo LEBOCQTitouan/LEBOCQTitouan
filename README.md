@@ -24,8 +24,8 @@ Engineer trained at **ENSICAEN** (Computer Science) with management studies at *
 
 ### Experience
 
-**EDF — Farnum · Internal Developer Platform**
-Designing and building an internal developer platform that abstracts away the underlying Kubernetes so local teams can focus on building, not infrastructure. The platform handles the heavy lifting — fast and secure onboarding, automated vulnerability scanning, and policy-compliant-by-default workflows — all aligned with company security standards while staying cost-efficient.
+**Lead Tech — EDF Farnum** *(Force d'Action Rapide du Numérique)*
+Leading the design and build of an internal developer platform that abstracts away the underlying Kubernetes so local teams can focus on building, not infrastructure. The platform handles the heavy lifting — fast and secure onboarding, automated vulnerability scanning, and policy-compliant-by-default workflows — all aligned with company security standards while staying cost-efficient.
 `Platform Engineering` · `Kubernetes` · `DevSecOps`
 
 ---
