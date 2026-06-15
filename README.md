@@ -1,28 +1,28 @@
-<h1 align="center">Hi, I'm Titouan LEBOCQ 👋</h1>
+<h1 align="center">Titouan LEBOCQ</h1>
 
 <p align="center">
-  <b>Computer Science Engineer</b> · building meaningful software with care for craft, systems, and clarity.
+  <b>Computer Science Engineer</b> — systems, tooling, and software built to last.
 </p>
 
 <p align="center">
   <a href="mailto:lebocq.titouan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/LEBOCQTitouan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Location-France-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="France"/>
 </p>
 
 ---
 
-### 🚀 About me
+### About
 
-- 🎓 Engineering degree in Computer Science — **ENSICAEN**, with management studies at **EM Normandie**
-- 🛠️ I enjoy low-level systems, functional programming, and clean, well-structured tooling
-- 🌱 Currently going deeper into **software architecture, systems design, and distributed systems**
-- 🤝 Open to collaboration on open-source and side projects
-- 🧗 Outside the terminal: climbing and drawing
+Engineer trained at **ENSICAEN** (Computer Science) with management studies at **EM Normandie**. I build robust, well-architected software — from low-level systems in C to functional design in Scala — and I care deeply about clean abstractions, maintainable code, and developer tooling.
+
+- 🔧 **Focus areas:** systems programming, software architecture, functional programming, developer tooling
+- 🧭 **Approach:** correctness first, clear design, code that the next engineer can read
+- 🤝 **Open to:** engineering collaboration and open-source contributions
 
 ---
 
-### 🧰 Tech Stack
+### Core Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -32,33 +32,24 @@
 ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
 ---
 
-### 📌 Selected Projects
+### Selected Work
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [operating-system-IPC](https://github.com/LEBOCQTitouan/operating-system-IPC) | Inter-process communication exploring OS-level primitives | `C` |
-| [rawTerminal](https://github.com/LEBOCQTitouan/rawTerminal) | Small library to switch the terminal into raw mode | `C` |
-| [scala-graph](https://github.com/LEBOCQTitouan/scala-graph) · [scala-conway](https://github.com/LEBOCQTitouan/scala-conway) | Functional programming experiments in Scala | `Scala` |
-| [iti-ensicaen-pwa](https://github.com/LEBOCQTitouan/iti-ensicaen-pwa) | Progressive Web App project | `JavaScript` |
-| [dotfiles](https://github.com/LEBOCQTitouan/dotfiles) · [tmux-config](https://github.com/LEBOCQTitouan/tmux-config) | My personal development environment | `Shell` |
+| [operating-system-IPC](https://github.com/LEBOCQTitouan/operating-system-IPC) | Inter-process communication built on OS-level primitives | `C` |
+| [rawTerminal](https://github.com/LEBOCQTitouan/rawTerminal) | Library to drive the terminal in raw mode | `C` |
+| [scala-graph](https://github.com/LEBOCQTitouan/scala-graph) · [scala-conway](https://github.com/LEBOCQTitouan/scala-conway) | Functional programming and algorithmic experiments | `Scala` |
+| [iti-ensicaen-pwa](https://github.com/LEBOCQTitouan/iti-ensicaen-pwa) | Progressive Web Application | `JavaScript` |
+| [dotfiles](https://github.com/LEBOCQTitouan/dotfiles) · [tmux-config](https://github.com/LEBOCQTitouan/tmux-config) | A finely-tuned, reproducible development environment | `Shell` |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LEBOCQTitouan&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEBOCQTitouan&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LEBOCQTitouan&hide_border=true&theme=transparent" alt="GitHub streak"/>
-</p>
-
----
-
-<p align="center"><i>“Make it work, make it right, make it clear.”</i></p>
